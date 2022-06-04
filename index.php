@@ -8,6 +8,6 @@
     <link rel="stylesheet" href="styl.css">
 </head>
 <body>
-    <div id="navbar"> </div>
+    <div id="navbar"> aaa</div>
 </body>
 </html>
