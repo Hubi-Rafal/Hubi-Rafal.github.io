@@ -8,6 +8,6 @@
     <link rel="stylesheet" href="styl.css">
 </head>
 <body>
-    <div class="aaa"> Hello, your computer has virus </div>
+    <div id="navbar"> </div>
 </body>
 </html>
